@@ -1,2 +1,15 @@
 Angelo Dacasin
-My name
+## My name
+
+#item 1
+JDK - Java Development Kit
+#item 2
+
+
+#item 3
+
+
+#item 4
+
+
+#item 5
