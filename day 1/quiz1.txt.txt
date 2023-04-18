@@ -14,3 +14,18 @@ JDK - Java Development Kit
 3 major: Standard Library
 
 #item 5
+JVM - Java Virtual Machine
+
+#item 6
+
+
+#item 7
+
+
+#item 8
+
+
+#item 9
+
+
+# item 10
