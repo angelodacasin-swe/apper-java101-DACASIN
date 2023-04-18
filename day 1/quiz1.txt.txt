@@ -20,7 +20,7 @@ JVM - Java Virtual Machine
 Standard Library
 
 #item 7
-
+FALSE. Understandable code is more important
 
 #item 8
 
