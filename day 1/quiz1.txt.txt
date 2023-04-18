@@ -31,3 +31,7 @@ class Name {
 		System.out.println("Angelo Dacasin");
 	}
 }
+
+BONUS QUESTION:
+You are color blind so you want to create a book that talks about the experience of one 
+that is color blind (not exact but this is what you shared :D :D). 
