@@ -3,13 +3,14 @@ Angelo Dacasin
 
 #item 1
 JDK - Java Development Kit
-#item 2
 
+#item 2
+3 major: Programming Language,
 
 #item 3
-
+3 major: Runtime Environment, 
 
 #item 4
-
+3 major: Standard Library
 
 #item 5
