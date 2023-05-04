@@ -16,7 +16,7 @@ class OddEven {
                 evenCount++; // NOTE: This can also be seen as nums[i] % 2 == 0. Meaning, if the remainder is 0, it is divisible by the number. Thus, it is EVEN.
             }
         }
-        // This will print the numbers that Odd/Even numbers.
+        // This will print the numbers the Odd/Even numbers.
         System.out.println("Odd: " + oddCount);
         System.out.println("Even: " + evenCount);
     }
@@ -25,6 +25,7 @@ class OddEven {
     public static void main(String[] args) { // We have already created a method. Now, let's call the program using that method.
         int[] nums = new int[]{1, 234, 2, 4, 56, 17, 50, 1235, 6, 1, 23, 48, 47, 34}; //create an array of integers with the specified values
         countOddEven(nums); // Call the countOddEven method. The "nums" array is its parameter.
-
+        
+        System.out.println(); // Just a line space for readability
     }
 }
